@@ -1,0 +1,6 @@
+[submodule "RPi_Server-PG"]
+	path = RPi_Server-PG
+	url = https://github.com/e-lab-FREE/RPi_Server-PG
+[submodule "Main_Server"]
+	path = Main_Server
+	url = https://github.com/e-lab-FREE/Main_Server
