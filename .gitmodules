@@ -4,3 +4,6 @@
 [submodule "Main_Server"]
 	path = Main_Server
 	url = https://github.com/e-lab-FREE/Main_Server
+[submodule "FREE_Web"]
+	path = FREE_Web
+	url = https://github.com/e-lab-FREE/FREE_Web.git
